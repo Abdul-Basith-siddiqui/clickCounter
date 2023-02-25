@@ -1,4 +1,7 @@
 # clickCounter
+
+https://super-llama-e592e9.netlify.app/
+
 ClickCounter is a simple React component that tracks the number of times a user clicks on a button. It provides a visual count of the number of clicks to the user and allows the user to reset the count to zero.
 
 The ClickCounter component typically renders a button and a text element. The text element displays the current count of clicks, which initially starts at zero. When the user clicks on the button, the count is incremented by one and the new count is displayed to the user.
