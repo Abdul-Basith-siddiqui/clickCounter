@@ -8,4 +8,4 @@ The ClickCounter component typically renders a button and a text element. The te
 
 The component also provides a reset button that, when clicked, sets the count back to zero. This allows the user to start over and count clicks again from scratch.
 
-ClickCounter can be useful in situations where you need to track user interactions with a specific button or feature in your application. It provides a simple way to keep count of the number of times a particular action is taken, which can help you gain insights into how users are interacting with your application and identify areas for improvement.
+ClickCounter can be useful in situations where you need to track user interactions with a specific button or feature in your application. It provides a simple way to keep count of the number of times a particular action is taken, which can help you gain insights into how users are interacting with your application and identify areas for  improvement. 
